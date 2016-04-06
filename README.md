@@ -1,2 +1,2 @@
 # MINIST
-the models related to MINIST digit data set.
+The models related to MINIST digit data set.
